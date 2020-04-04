@@ -1,1 +1,5 @@
-hi this is one
+hi this is two
+
+git add .
+git commit -m"comment"
+git push -u origin master
